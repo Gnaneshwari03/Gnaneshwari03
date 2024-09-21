@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="left">राधे-राधे 👋, I'm K Gnaneshwari </h1>
+<h3 align="left">Student | Developer | Programmer</h3>
+<!-- <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&uid=R98464249&ga=GA1.1.625671331.1680357616&semt=ais"> -->
 
-<!--
-**Gnaneshwari03/Gnaneshwari03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📫 How to reach me **gnaneshwari23@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/k-gnanehswari-47a47b31b" target="blank"><img align="center" target = "_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="M Mohankrishna" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,python&perline=10" />
+  </a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohankrishna0313&show_icons=true&locale=en" alt="Mohankrishna0313" /></p>
